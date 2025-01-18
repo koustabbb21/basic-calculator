@@ -1,2 +1,8 @@
-# basic-calculator
-This is a calculator program that has four functions (addition, subtraction, multiplication, division) written in C programming language.
+# BASIC-CALCULATOR in C
+This calculator program in C has the 4 basic functionalities - addition , subtraction, multiplication, division.
+<br>
+Author: KOUSTAB SAIKIA
+<br>
+B.Tech 2nd Semester Student
+<br>
+Jorhat Engineering College
