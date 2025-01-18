@@ -31,7 +31,7 @@ int main()
     {
         printf("You've entered a wrong operator!");
     }
-    
+
     return 0;
 }
 
@@ -48,7 +48,7 @@ void subt()
     int a, b;
     printf("Enter two numbers : ");
     scanf("%d %d", &a, &b);
-    printf("Sum of %d and %d is %d\n",a,b, a-b);
+    printf("Subtraction of %d from %d is %d\n",b,a, a-b);
 }
 
 void mult()
@@ -56,7 +56,7 @@ void mult()
     int a, b;
     printf("Enter two numbers : ");
     scanf("%d %d", &a, &b);
-    printf("Sum of %d and %d is %d\n",a,b, a*b);
+    printf("Multiplication of %d and %d is %d\n",a,b, a*b);
 }
 
 void div()
@@ -64,5 +64,5 @@ void div()
     int a, b;
     printf("Enter two numbers(b>0): ");
     scanf("%d %d", &a, &b);
-    printf("Sum of %d and %d is %d\n",a,b, a/b);
+    printf("Division of %d and %d is %d\n",a,b, a/b);
 }
