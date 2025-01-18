@@ -15,6 +15,23 @@ int main()
     {
         sum();
     }
+    else if(op=='-')
+    {
+        subt();
+    }
+    else if(op=='*')
+    {
+        mult();
+    }
+    else if(op=='/')
+    {
+        div();
+    }
+    else
+    {
+        printf("You've entered a wrong operator!");
+    }
+    
     return 0;
 }
 
